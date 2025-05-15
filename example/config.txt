@@ -1,0 +1,2 @@
+Prefix plugins/PLR/example/
+Plugin PLR inputfile parameters.train.txt outputfile output.rds
